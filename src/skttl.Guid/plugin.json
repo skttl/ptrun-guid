@@ -1,0 +1,14 @@
+{
+  "ID": "EF1F634F20484459A3679B4FE7B07997",
+  "Disabled": false,
+  "ActionKeyword": "guid",
+  "Name": "Guid",
+  "Author": "skttl",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/skttl/powertoys-run-guid",
+  "ExecuteFileName": "skttl.Guid.dll",
+  "IsGlobal": false,
+  "IcoPathDark": "images\\guid.dark.png",
+  "IcoPathLight": "images\\guid.light.png"
+}
