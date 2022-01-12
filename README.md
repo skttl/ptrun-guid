@@ -8,7 +8,7 @@ A Guid generator for PowerToys Run. Simply invoke the command `guid` and get a f
 
 **Minimum required version of PowerToys is 0.53.1 - make sure you've got this version installed.**
 
-Exit PowerToys, and save [skttl.Guid.zip]() to `%PROGRAMFILES%\PowerToys\modules\launcher\Plugins` (or wherever your PowerToys is installed), and start PowerToys.
+Exit PowerToys, and save [skttl.Guid.zip](https://github.com/skttl/ptrun-guid/releases/download/0.1.0/skttl.Guid.zip) to `%PROGRAMFILES%\PowerToys\modules\launcher\Plugins` (or wherever your PowerToys is installed), and start PowerToys.
 
 ## Usage
 
